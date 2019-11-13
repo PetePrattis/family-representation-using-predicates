@@ -7,7 +7,7 @@ and it is one of the final projects necessary to pass the class_
 
 > #### Description of project
 >
->>Represent the above family as well as 3-4 more families (of your choice) using the family-3 predicate and appropriate compound terms. Set the predicates exist-1, dateofbirth-2 and salary-2 and use them to recover all parents born before 1950 and their salary is less than 8,000.
+>>Represent one family as well as 3-4 more families (of your choice) using the family-3 predicate and appropriate compound terms. Set the predicates exist-1, dateofbirth-2 and salary-2 and use them to recover all parents born before 1950 and their salary is less than 8,000.
 >
 
 > #### About this project
